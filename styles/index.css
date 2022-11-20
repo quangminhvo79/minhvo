@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.resume-section {
+  @apply rounded-md border border-slate-100 px-6 py-5 bg-white drop-shadow-lg;
+  @apply bg-gradient-to-b from-slate-200 to-slate-100;
+}
