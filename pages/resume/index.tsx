@@ -76,7 +76,7 @@ export default function Index() {
             <h1 className="text-2xl font-bold">Experience</h1>
             <div className="space-y-5">
               <div className="space-y-2">
-                <p class="flex justify-between mb-3">
+                <p className="flex justify-between mb-3">
                   <span className="font-semibold italic underline underline-offset-2">BizzOn Outsourcing Company</span>
                   <span> June 2015 - May 2017 </span>
                 </p>
@@ -94,7 +94,7 @@ export default function Index() {
               </div>
 
               <div className="space-y-2">
-                <p class="flex justify-between mb-3">
+                <p className="flex justify-between mb-3">
                   <span className="font-semibold italic underline underline-offset-2">Steinsvik</span>
                   <span> May 2017 - May 2018 </span>
                 </p>
@@ -105,7 +105,7 @@ export default function Index() {
               </div>
 
               <div className="space-y-2">
-                <p class="flex justify-between mb-3">
+                <p className="flex justify-between mb-3">
                   <span className="font-semibold italic underline underline-offset-2">Jobready</span>
                   <span> May 2018 - July 2021 </span>
                 </p>
@@ -120,7 +120,7 @@ export default function Index() {
               </div>
 
               <div className="space-y-2">
-                <p class="flex justify-between mb-3">
+                <p className="flex justify-between mb-3">
                   <span className="font-semibold italic underline underline-offset-2">MotionsCloud</span>
                   <span> July 2021 - Present </span>
                 </p>
