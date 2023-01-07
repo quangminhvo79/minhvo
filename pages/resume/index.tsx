@@ -11,13 +11,12 @@ import {
 
 export default function Index() {
   return (
-    <div className="bg-gray-100 min-h-screen w-full pb-5">
-      <div className="cover-image h-[200px] bg-gradient-to-b from-slate-400 to-slate-100"></div>
-      <div className="grid grid-cols-8 gap-5 w-10/12 mx-auto relative -top-20">
-        <div className="col-span-3 space-y-5">
+    <div id="resume" className="bg-gradient-to-b from-gray-300 to-slate-100 min-h-screen w-full p-12">
+      <div className="grid sm:grid-cols-1 lg:grid-cols-8 gap-5 lg:w-10/12 mx-auto relative">
+        <div className="lg:col-span-3 space-y-5">
           <div className="resume-section">
             <div className="space-y-2 relative">
-              <img className="absolute rounded-full border-4 w-32 h-32 z-100 -top-2/4 inset-x-0 m-auto" src="https://avatars.githubusercontent.com/u/8407450" />
+              <img className="rounded-full border-4 border-white w-32 h-32 m-auto" src="https://avatars.githubusercontent.com/u/8407450" />
               <h1 className="text-2xl font-bold">Minh Vo</h1>
               <div>
                 <p>Web developer</p>
@@ -63,13 +62,14 @@ export default function Index() {
           </div>
         </div>
 
-        <div className="col-span-5 space-y-5">
+        <div className="lg:col-span-5 space-y-5">
           <div className="resume-section space-y-2">
             <h1 className="text-2xl font-bold">About me</h1>
             <p>
               <span>I'm experienced Ruby on Rails Developer from Nha Trang, Việt Nam with a passion for building software products.</span>
               <span> I have been building software products since 2015 starting with PHP, NodeJs and shifted to Ruby on Rails.</span>
             </p>
+            <a className="flex items-center" href="assets/resume/minhvo.docx"><u>Download Resume</u></a>
           </div>
 
           <div className="resume-section space-y-2">
