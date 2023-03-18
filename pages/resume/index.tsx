@@ -81,13 +81,13 @@ export default function Index() {
                   <span> June 2015 - May 2017 </span>
                 </p>
                 <ul className="list-disc list-inside">
-                  <li>Involved to build CMS to make it reusable  for all outsourcing projects in company.</li>
-                  <li>Involved to maintain and fix critical issue for all outsourcing project in company.</li>
-                  <li>Involved to build all outsourcing project with PHP, NodeJS, ReactJS, AngularJS... </li>
+                  <li>Involved in build CMS to make it reusable  for all outsourcing projects in company.</li>
+                  <li>Involved in maintain and fix critical issue for all outsourcing project in company.</li>
+                  <li>Involved in build all outsourcing project with PHP, NodeJS, ReactJS, AngularJS... </li>
                   <li>Build an internal app (chrome extension) to help PM team and Design team can generate css animation for any object in browser by ReactJS.</li>
                   <li>Build drawing and coloring games for kids using Unity Engine.</li>
                   <li>
-                    Involved to building company startup applications about social networking in the field of traffic
+                    Involved in building company startup applications about social networking in the field of traffic
                     (news feed, notifications, cms, practice driving law, ...  ).
                   </li>
                 </ul>
@@ -110,11 +110,10 @@ export default function Index() {
                   <span> May 2018 - July 2021 </span>
                 </p>
                 <ul className="list-disc list-inside">
-                  <li>Involved to develop new features for the company's product - a human resource and employment management software.</li>
+                  <li>Involved in develop new features for the company's product - a human resource and employment management software.</li>
                   <li>Investigate issues, fix and update the business logic for the product accordance with customer reguirements.</li>
-                  <li>Developed model and optimized service code to reduce N+1 problem.</li>
-                  <li>Involved to update test coverage to over 95%.</li>
-                  <li>Involved to upgrade rails version.</li>
+                  <li>Involved in optimize product like resolved N+1, query optimization, increase test coverage to over 98%, research and implement new technical from Architect Manager.</li>
+                  <li>Involved in upgrade rails version from 3 – 5</li>
                   <li>Support and guidance team-mate to familiar business, debug and maintain system.</li>
                 </ul>
               </div>
@@ -125,9 +124,11 @@ export default function Index() {
                   <span> July 2021 - Present </span>
                 </p>
                 <ul className="list-disc list-inside">
-                  <li>Involved to develop and upgrade video call feature.</li>
+                  <li>Involved in develop and upgrade video call feature.</li>
                   <li>Research and apply new technologies to current applications.</li>
-                  <li>Investigate issues, fix and update the business logic for the product accordance with customer reguirements.</li>
+                  <li>Take over and develop the whole project after the former employee quits.</li>
+                  <li>Investigate issues, fix and update the business logic for all product’s company accordance with customer reguirements.</li>
+                  <li>Research and apply best practice to legacy modules to improve code quality</li>
                 </ul>
               </div>
             </div>
