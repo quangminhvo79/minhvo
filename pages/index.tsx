@@ -69,7 +69,7 @@ export default function Index() {
               <span>I'm experienced Ruby on Rails Developer from Nha Trang, Việt Nam with a passion for building software products.</span>
               <span> I have been building software products since 2015 starting with PHP, NodeJs and shifted to Ruby on Rails.</span>
             </p>
-            <a className="flex items-center" href="assets/resume/minhvo-resume.docx"><u>Download Resume</u></a>
+            <a className="flex items-center" href="assets/resume/minhvo.docx"><u>Download Resume</u></a>
           </div>
 
           <div className="resume-section space-y-2">
